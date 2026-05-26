@@ -11,7 +11,7 @@
 
 ### `> whoami`
 
-**Cloud Native · DevOps · Infrastructure as Code**
+**Cloud Native · DevOps · AI Infra · Infrastructure as Code**
 
 [![GitHub followers](https://img.shields.io/github/followers/syyyclover?style=social)](https://github.com/syyyclover)
 
@@ -24,6 +24,7 @@ class CloudEngineer:
     focus = [
         "☁️  Private Cloud Architecture & Deployment",
         "🐳  Container Orchestration & Microservices",
+        "🤖  AI Infrastructure & LLM Serving",
         "⚙️  Infrastructure Automation",
         "📊  Observability & Monitoring",
     ]
@@ -31,6 +32,7 @@ class CloudEngineer:
     toolbox = {
         "cloud":      ["OpenStack", "FusionCompute", "KVM"],
         "containers": ["Podman", "Docker", "Kubernetes"],
+        "ai":         ["PyTorch", "vLLM", "llama.cpp", "Unsloth", "HuggingFace"],
         "automation": ["Ansible", "Terraform", "Shell"],
         "monitoring": ["Prometheus", "Grafana", "DCGM"],
         "networking": ["OVS", "Neutron", "Nginx"],
@@ -57,6 +59,15 @@ class CloudEngineer:
 ![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+**AI & Machine Learning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![vLLM](https://img.shields.io/badge/vLLM-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHRleHQgeD0iNCIgeT0iMTgiIGZvbnQtc2l6ZT0iMTgiIGZpbGw9IndoaXRlIj52PC90ZXh0Pjwvc3ZnPg==&logoColor=white)
+![llama.cpp](https://img.shields.io/badge/llama.cpp-5A8B7A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHRleHQgeD0iNCIgeT0iMTgiIGZvbnQtc2l6ZT0iMTgiIGZpbGw9IndoaXRlIj5MPC90ZXh0Pjwvc3ZnPg==&logoColor=white)
+![Unsloth](https://img.shields.io/badge/Unsloth-7C3AED?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHRleHQgeD0iNCIgeT0iMTgiIGZvbnQtc2l6ZT0iMTgiIGZpbGw9IndoaXRlIj5VPC90ZXh0Pjwvc3ZnPg==&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 **Monitoring & Observability**
 
