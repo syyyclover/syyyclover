@@ -21,23 +21,21 @@
 
 ```python
 class CloudEngineer:
-    def __init__(self):
-        self.focus = [
-            "☁️  Private Cloud Architecture & Deployment",
-            "🐳  Container Orchestration & Microservices",
-            "⚙️  Infrastructure Automation",
-            "📊  Observability & Monitoring",
-        ]
+    focus = [
+        "☁️  Private Cloud Architecture & Deployment",
+        "🐳  Container Orchestration & Microservices",
+        "⚙️  Infrastructure Automation",
+        "📊  Observability & Monitoring",
+    ]
 
-    def current_toolbox(self):
-        return {
-            "cloud":      ["OpenStack", "FusionCompute", "KVM"],
-            "containers": ["Podman", "Docker", "Kubernetes"],
-            "automation": ["Ansible", "Terraform", "Shell"],
-            "monitoring": ["Prometheus", "Grafana", "DCGM"],
-            "networking": ["OVS", "Neutron", "Nginx"],
-            "languages":  ["Python", "Shell", "Go (learning)"],
-        }
+    toolbox = {
+        "cloud":      ["OpenStack", "FusionCompute", "KVM"],
+        "containers": ["Podman", "Docker", "Kubernetes"],
+        "automation": ["Ansible", "Terraform", "Shell"],
+        "monitoring": ["Prometheus", "Grafana", "DCGM"],
+        "networking": ["OVS", "Neutron", "Nginx"],
+        "languages":  ["Python", "Shell", "Go"],
+    }
 ```
 
 ---
