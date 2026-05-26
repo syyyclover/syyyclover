@@ -19,29 +19,6 @@
 
 ---
 
-```python
-class CloudEngineer:
-    focus = [
-        "☁️  Private Cloud Architecture & Deployment",
-        "🐳  Container Orchestration & Microservices",
-        "🤖  AI Infrastructure & LLM Serving",
-        "⚙️  Infrastructure Automation",
-        "📊  Observability & Monitoring",
-    ]
-
-    toolbox = {
-        "cloud":      ["OpenStack", "FusionCompute", "KVM"],
-        "containers": ["Podman", "Docker", "Kubernetes"],
-        "ai":         ["PyTorch", "vLLM", "llama.cpp", "Unsloth", "HuggingFace"],
-        "automation": ["Ansible", "Terraform", "Shell"],
-        "monitoring": ["Prometheus", "Grafana", "DCGM"],
-        "networking": ["OVS", "Neutron", "Nginx"],
-        "languages":  ["Python", "Shell", "Go"],
-    }
-```
-
----
-
 ### 🛠️ Tech Stack
 
 <div align="center">
